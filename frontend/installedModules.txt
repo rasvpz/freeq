@@ -1,0 +1,10 @@
+
+yarn create react-app appname
+cd my-react-app
+npm start
+
+yarn add react-bootstrap
+yarn add react-router-dom@5.3.0   
+
+Chakra UI Intallation Yarn Code
+yarn add @chakra-ui/react @emotion/react@^11 @emotion/styled@^11 framer-motion@^6
